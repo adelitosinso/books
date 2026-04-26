@@ -1,3 +1,9 @@
+#file name (direct)
 file.txt
 mehdi.dat
+
+#folder
 tmp/
+
+#wildcard
+*.dll
