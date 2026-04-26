@@ -7,3 +7,9 @@ tmp/
 
 #wildcard
 *.dll
+
+#except
+!system.dll
+
+# .o or .a
+*.[oa]
