@@ -1,0 +1,15 @@
+#file name (direct)
+file.txt
+mehdi.dat
+
+#folder
+tmp/
+
+#wildcard
+*.dll
+
+#except
+!system.dll
+
+# .o or .a
+*.[oa]
