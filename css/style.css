@@ -1,15 +1,28 @@
 .bordered{
     border: 1px solid lightgray;
-    border-radius: 2rem;
     margin: 2em;
-width: 20%;
+    text-align: center;
+    border-radius: 2rem;
+    width: 20%;
 }
 .bordered img{
+    margin-top: 10px;
     display: inline-block;
-    width: 50%;
+    width: 85%;
+    object-fit:cover ;
 }
+.bordered p{
+    font-weight: bold;
+    font-family: system-ui;
+    color: darkslategray;
+}
+
 main{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    text-align: center;
+}
+h1{
+    text-align: center;
 }
