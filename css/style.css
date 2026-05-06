@@ -13,3 +13,14 @@ main{
     flex-wrap: wrap;
     justify-content: space-around;
 }
+footer{
+    height: 200px;
+    background-color: lightgray;
+    margin: 0;
+    text-align: center;
+    padding: 20px;
+
+}
+body{
+    margin: 0;
+}
